@@ -1,0 +1,19 @@
+{
+    "ASR_TWO.ailight.red|block": "红灯",
+    "ASR_TWO.ailight.green|block": "绿灯",
+    "ASR_TWO.ailight.blue|block": "蓝灯",
+    "ASR_TWO.ailight.white|block": "白灯",
+    "ASR_TWO.rgbstate.state1|block": "亮",
+    "ASR_TWO.rgbstate.state2|block": "灭",
+    "ASR_TWO.allcolor.red|block": "红色",
+    "ASR_TWO.allcolor.green|block": "绿色",
+    "ASR_TWO.allcolor.yellow|block": "黄色",
+    "ASR_TWO.getid|block": "获取ID",
+    "ASR_TWO.setnum|block":"发送语句|%text",
+    "ASR_TWO|block": "好搭智眼",
+    "{id:category}ASR_TWO": "好搭智眼",
+    "{id:group}Functions": "运行模块",
+    "{id:group}Settings": "设置模块",
+    "{id:group}AlgorithmSettings": "算法参数设置模块",
+    "{id:group}CameraSettings": "摄像头设置模块"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ASR-TWO",
+    "version": "0.0.1",
+    "description": "好搭智能语音模块",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/ASR-TWO-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
